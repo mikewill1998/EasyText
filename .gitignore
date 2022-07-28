@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+
+# Mac OS
+.DS_Store
+
+# Packaging
+*.eggs
